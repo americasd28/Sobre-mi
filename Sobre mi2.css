@@ -1,0 +1,53 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100&family=Edu+AU+VIC+WA+NT+Guides:wght@400..700&display=swap');
+
+
+
+body {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+    background-color: #fff3fd; 
+    color: #333;
+}
+
+
+h1 {
+    font-family: 'Edu AU VIC WA NT Guides', sans-serif;
+    color: #c2518b; 
+}
+
+
+h2, h3 {
+    font-family: 'Edu AU VIC WA NT Guides', sans-serif;
+    color: #c2518b;
+}
+
+
+.card {
+    background-color: #ddd7c6; 
+    border: none;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+
+.card-title {
+    color: #b78199; 
+}
+
+
+img {
+    max-width: 20%;
+    border-radius: 8px;
+}
+
+
+.alert {
+    font-weight: bold;
+    background-color: #c2518b; 
+    color: white; 
+}
+
+
+
+
+
